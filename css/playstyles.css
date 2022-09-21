@@ -20,6 +20,22 @@ body {
      color: white;
      
  }
+
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.title_logo {
+    width: 60%;
+}
+
+.title_date {
+    width: 40%;
+
+}
+
  h2 {
      line-height: 1.4;
      color: black;
